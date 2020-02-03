@@ -1,0 +1,19 @@
+{
+  "name": "ctma-wrapper",
+  "version": "1.0.0",
+  "description": "Wraps are tasty.",
+  "main": "app.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "is-running": "^2.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [],
+  "author": "J0schlZ",
+  "license": "ISC"
+}

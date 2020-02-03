@@ -1,0 +1,14 @@
+{
+  "ports": {
+    "web": 8801,
+    "apiServer": 8250
+  },
+  "mysql": {
+    "host": "127.0.0.1",
+    "user": "ctogether",
+    "password": "zw=RYhVrT2&GdP9nt^z8Pp",
+    "db": "ctmyadmin"
+  },
+  "logFiles": "./logs",
+  "authKey": "6VvZz2KFens8KKPj"
+}
