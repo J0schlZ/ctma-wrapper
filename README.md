@@ -22,12 +22,6 @@ Schreibt mich gerne in Discord an.
 - `--forceUpgrade` Startet Bukkit/Spigot mit dem Parameter: `--forceUpgrade` und führt ein Version-Upgrade für alle Welten durch.
 - `--noRestart` Ignoriere geplante Neustarts
 
-CREATE TABLE `uuids` (
-  `uuid` varchar(32) NOT NULL,
-  `last_name` varchar(16) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;`
-
-
 ### Tools
 
 Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
