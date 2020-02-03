@@ -1,5 +1,5 @@
 # ctma-wrapper
-Ich habe NodeJS bisher immer ohne IDE entwickelt.
+Ich habe Javascript bisher immer ohne IDE entwickelt.
 Wie ich nun feststellen musste, ist der Code wohl nicht so ganz valide.. :'D
 Aber er läuft!^^
 
